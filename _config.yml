@@ -1,9 +1,10 @@
 # Site settings
-title: Hello
+title: Coding life
 email: hello@garamburu.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "This is my attempt at calling the former ''blog''. Here you will find all kinds of great things in my life, browsing code, ideas of life, voyages, whatever. Enjoy!"
 baseurl: ""
-url: "http://garamburu.com"
+url: "http://blog.garamburu.com"
+username: "gabamnml"
 
 # Build settings
 markdown: kramdown
