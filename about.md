@@ -6,7 +6,7 @@ permalink: /about/
 
 I am developer, speaker wannabe and music lover.
 I like write magical code & surf the internet.
-Currently working in [HopIn](http://hop.in)
+Currently working at [HopIn](http://hop.in)
 
 You can follow me on:
 
