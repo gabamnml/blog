@@ -1,9 +1,9 @@
 # Site settings
-title: Coding life
+title: Gabriel Aramburu
 email: hello@garamburu.com
 description: "This is my attempt at calling the former ''blog''. Here you will find all kinds of great things in my life, browsing code, ideas of life, voyages, whatever. Enjoy!"
 baseurl: ""
-url: "http://blog.garamburu.com"
+url: "http://garamburu.com"
 username: "gabamnml"
 
 # Build settings

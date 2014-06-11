@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Developer. MIDI Lover.
-Mind Killer
+I am developer, speaker wannabe and music lover.
+I like write magical code & surf the internet.
+Currently working in [HopIn](http://hop.in)
 
  [Twitter](https://twitter.com/gabamnml)
 
