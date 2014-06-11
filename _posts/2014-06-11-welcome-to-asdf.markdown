@@ -11,7 +11,7 @@ This is my first post with a first test:
 def print_hello(name)
   puts "Hello, #{name}"
 end
-print_hello('Tom')
+print_hello('World')
 #=> prints 'Hello, World' to STDOUT.
 {% endhighlight %}
 
