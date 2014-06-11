@@ -5,6 +5,7 @@ description: "This is my attempt at calling the former ''blog''. Here you will f
 baseurl: ""
 url: "http://garamburu.com"
 username: "gabamnml"
+mini-desc: "Programmer"
 
 # Build settings
 markdown: kramdown
