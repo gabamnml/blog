@@ -16,4 +16,6 @@ You can follow me on:
 
  [LinkedIn](http://www.linkedin.com/in/gabamnml)
 
+ [SoundCloud](https://soundcloud.com/binaryhead)
+
  [Flickr](https://www.flickr.com/photos/garamburu/)
