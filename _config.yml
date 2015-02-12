@@ -1,12 +1,20 @@
-# Site settings
-title: Gabriel Aramburu
-email: hello@garamburu.com
-description: "This is my attempt at calling the former ''blog''. Here you will find all kinds of great things in my life, browsing code, ideas of life, voyages, whatever. Enjoy!"
-baseurl: ""
-url: "http://garamburu.com"
-username: "gabamnml"
-mini-desc: "Programmer"
+# General
+name: "Gabriel Aramburu"
+description: "Fullstack Developer"
+url: http://localhost:4000
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5
+permalink: /:title
+
+# Social share and comments.
+disqus-id: gabamnml
+twitter: gabamnml
+github: gabamnml
+google: +gabamnml
+
+# RSS feed
+rss-feed-limit: 10
+rss-show-full: "no"
