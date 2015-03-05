@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to asdf!"
 date:   2014-06-11 00:45:56
-categories: "asdf welcome"
+categories: [asdf, welcome]
 ---
 
 This is my first post with a first test:

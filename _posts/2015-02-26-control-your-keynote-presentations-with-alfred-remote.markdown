@@ -2,7 +2,7 @@
 layout: post
 title:  "Control your Keynote Presentations with Alfred Remote"
 date:   2015-02-26 00:45:56
-categories: "workflow development alfredapp keynote"
+categories: [workflow, development, alfredapp, keynote]
 ---
 
 
