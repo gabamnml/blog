@@ -7,9 +7,11 @@ layout: default
     {% for post in paginator.posts %}
         <article class="module color-3">
                 <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                {% for category in post.categories %}
-                <span class="category">{{ category }}</span>
-                {% endfor %}
+                <span class="category">
+                    {% for category in post.categories %}
+                        {{ category }} &nbsp;
+                    {% endfor %}
+                </span>
                 <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
         </article>
     {% endfor %}
