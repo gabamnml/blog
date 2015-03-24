@@ -10,7 +10,7 @@ I create my first App in Swift for OSX, hope you enjoy it and will be helpful.
 ## Support 
 GUI for Start/Stop Redis Server and Open CLI. 
 
-Disclaimer: only runs on OSX & if your config of Redis locate in "/usr/local/etc/redis.conf" by default.
+Disclaimer: only runs on OSX & if your config of Redis locate in "/usr/local/etc/redis.conf" by default. (Most likely that if you installed _Redis_ with _Homebrew_ this is the route to use.)
 
 ## How to install
 Download the latest version of App in this [link](http://bit.ly/redistab-app) open _RedisTab.dmg_ and drag in your Applications folder.
