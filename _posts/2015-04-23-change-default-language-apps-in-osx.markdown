@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Change Default Language Apps in OSX"
-date:   2014-06-11 00:45:56
+date:   2015-04-23 00:11:50
 categories: [osx, default language, AppleLanguages]
 ---
 
