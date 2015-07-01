@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "How to transfer and play FLAC music on iPhone without any conversion using iTunes & free”
+title:  "How to transfer and play FLAC music on iPhone without any conversion”
 date:   2015-04-23 00:11:50
-categories: [FLAC, itunes, loseless, iphone]
+categories: [flac, itunes, loseless, iphone]
 ---
+
+How to transfer and play FLAC music on iPhone without any conversion using iTunes & free
 
 For audiophiles always difficult for us to find ways of listening to music as ‘**loseless**’ without having to twist the system and listen to music in comfort in this case using our iPhone.
 That is why I began to investigate and come to a form where only using iTunes and maintaining our intact FLAC file. we can enjoy the good sound quality they offer us without using external applications or converters to deal with different audio formats and often have to buy or pay a monthly fee for them.
