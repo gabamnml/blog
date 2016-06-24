@@ -1,9 +1,9 @@
 # General
 name: "Gabriel Aramburu"
-description: "FullStack Developer"
+description: "Software Architect"
 url: http://garamburu.com
 
-markdown: redcarpet
+markdown: kramdown 
 highlighter: pygments
 
 paginate: 5
