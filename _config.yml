@@ -4,7 +4,7 @@ description: "Software Architect"
 url: http://garamburu.com
 
 markdown: kramdown 
-highlighter: pygments
+highlighter: rouge 
 
 paginate: 5
 permalink: /:title
