@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vim migrating to the habit of using an IDE”
+title:  "Vim migrating to the habit of using an IDE"
 date:   2015-04-23 00:11:50
 categories: [vim, programming, code, IDE, tmux, plugins]
 ---
