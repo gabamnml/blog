@@ -38,4 +38,4 @@ I hope at least curiosity getting up to use VIM, I wish it so.
 PS: My VIM has many installed plugins and sometimes need them on a remote server. Anyway it's completely enjoyable use the same editor anywhere you feel at home wherever you are.
 Dependence is very low unless you become addicted to plugins. =P
 
-PD2: ![](http://i.imgur.com/Fx1FXhQ.png)
+PS2: ![](http://i.imgur.com/Fx1FXhQ.png)
