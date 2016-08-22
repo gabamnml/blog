@@ -5,11 +5,9 @@ date:   2016-08-22 00:11:50
 categories: [twitter, api, app, gui, console]
 ---
 
-#Using Twitter API with Twitter desktop Application
-
 Recently browsing twitter through the twitter app, I discover a fantastic “GUI console” for use the Twitter API.
 
-##Steps to work:
+## Steps to work:
 1. Go to [apps.twitter.com](https://apps.twitter.com)
 2. Sign in with your twitter account
 3. Click on “Create New App” button
