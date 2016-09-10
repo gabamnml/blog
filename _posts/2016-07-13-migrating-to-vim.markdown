@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vim migrating to the habit of using an IDE"
-date:   2015-04-23 00:11:50
+date:   2016-07-13 00:11:50
 categories: [vim, programming, code, IDE, tmux, plugins]
 ---
 
@@ -12,7 +12,7 @@ I must be honest and mention of first instance which is not very easy when you a
 
 My first steps were a bit chaotic, opened it occasionally trying to force the use and being accustomed to multiple tabs and windows with persistence that provide us with the IDE's to continue working. However in VIM he had every time I used or closing a project had to start all over again where he left off the last time you work on.
 
-At the end I was too lazy often start from scratch and was returning to use the IDE. 
+At the end I was too lazy often start from scratch and was returning to use the IDE.
 But someone came to the rescue, I remembered that for the persistence of active Shell server use TMUX and said why not use it with VIM? and got down to work, searching in the internet everyone used this perfect combination of VIM + TMUX and thereby thousand plugins and preferences for use. This changed my life. Now I could persist sessions with gem **tmuxinator** for **TMUX**  gave me the ability to create "workspaces" for each of my projects and not only with VIM, could be pre-loaded with certain **IRC** channels or whatever I wanted depending on the project that is working.
 
 But not all end there, although now had finally stopped using my favorite IDE I felt that something was missing like tab completition, syntax highlight, browse the code, comment multiple lines fast or to see my tree directory clearly and quickly.
