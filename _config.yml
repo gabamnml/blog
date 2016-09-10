@@ -5,8 +5,8 @@ title2: "In Code I Trust" # default: ""
 description: "Software Architect"
 keywords: "Code, Security, Apps, API, technical, programming, "
 url: http://garamburu.com # site url
-baseurl: "/blog" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+#baseurl: "/blog" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-17420644-10
 repo: http://github.com/gabamnml/blog
