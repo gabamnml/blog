@@ -15,10 +15,15 @@ That is why I began to investigate and come to a form where only using iTunes an
 
 ## Load your music
 ![iTunes Steps](https://dl.dropboxusercontent.com/u/14383251/steps-vox-flac.jpg)
+
 1. We access our phone from iTunes.
+
 2. We click on ‘’**Apps**’’ locate in the sidebar.
+
 3. Scroll down to ’’**File Sharing**’’ section.
+
 4. We search our list of phone applications VOX you just installed.
+
 5. Click on ‘’**add**’’ add our FLAC files and automatically start upload in the device.
 
 After the upload of FLAC files can now disconnect the iPhone.
