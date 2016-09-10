@@ -1,23 +1,59 @@
-# General
-name: "Gabriel Aramburu"
+
+# SEO settings
+title: "Gabriel Aramburu"
+title2: "In Code I Trust" # default: ""
 description: "Software Architect"
-url: http://garamburu.com
+keywords: "Code, Security, Apps, API, technical, programming, "
+url: http://garamburu.com # site url
+baseurl: "/blog" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
 
-markdown: kramdown 
-highlighter: rouge 
+google_analytics: UA-17420644-10
+repo: http://github.com/gabamnml/blog
+disqus_shortname: "gabamnml"
+twitter_username: "gabamnml"
+comments: true
 
-paginate: 5
-permalink: /:title
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-# Social share and comments.
-disqus-id: gabamnml
-twitter: gabamnml
-github: gabamnml
-google: +gabamnml
+source: ./
+destination: ./_site
 
-# RSS feed
-rss-feed-limit: 10
-rss-show-full: "no"
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Gabriel Aramburu"
+  job      : "CTO"
+  bio      : "Software Architect & Security Advocate. MIDI Lover. Movies Killer."
+  thumb    : /images/author.jpg
+  email    : hello@garamburu.com
+  url      : http://garamburu.com
+  github   : http://bit.ly/web-github
+  twitter  : http://bit.ly/web-twitter
+  facebook : https://www.facebook.com/null
+  linkedin : http://bit.ly/web-linked-in
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@gabamnml"
 
 gems:
-  - jekyll-sitemap
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
