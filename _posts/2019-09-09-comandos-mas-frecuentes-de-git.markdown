@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COMANDOS MÁS FRECUENTES PARA UTILIZAR GIT"
-date: 2019-09-04
+date: 2019-09-09
 author: gabamnml
 tags:
   - git
