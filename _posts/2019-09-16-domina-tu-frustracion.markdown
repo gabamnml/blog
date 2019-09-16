@@ -40,7 +40,7 @@ Mientras continuas en este estado de plenitud vuelve a hacerte la misma pregunta
 Tu corazón sabe la respuesta. Confía en el. El sabe lo que hay que hacer. Respira desde tu corazón y da las gracias por la respuesta. Tu corazón y tu mente al alinearse forman una fuerza poderosa, cuando se unen son imbatibles.
 
 Toma todas tus emociones y pensamientos negativos, cámbialos por agradecimiento y tu vida cambiara en un instante.
-```
+
 
 Nota: Todos los créditos de este post son para Tony Robbins quien escribió esto en primera instancia.
 
