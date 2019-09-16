@@ -42,6 +42,7 @@ Tu corazón sabe la respuesta. Confía en el. El sabe lo que hay que hacer. Resp
 Toma todas tus emociones y pensamientos negativos, cámbialos por agradecimiento y tu vida cambiara en un instante.
 
 
-Nota: Todos los créditos de este post son para Tony Robbins quien escribió esto en primera instancia.
+> Nota: Todos los créditos de este post son para Tony Robbins quien escribió esto en primera instancia.
+
 
 Si te intereso el post te invito a que lo compartas y/o me cuentes tu experiencia, realmente funciona. Se que no es el estilo de post técnicos que manejo pero sirve para trabajar en el día a día en tu vida. Y que mejor que compartirlo por aquí para que también te ayude a ti.
