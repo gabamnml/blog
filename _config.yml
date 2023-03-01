@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Gabriel Aramburu"
-  job      : "CTO"
-  bio      : "Software Architect & Security Advocate. MIDI Lover. Movies Killer."
+  job      : "CTO & Co-Founder"
+  bio      : "Software Architect & Security Advocate. Co-Founder of Calypso.day"
   thumb    : /images/author.jpg
   email    : hello@garamburu.com
   url      : http://garamburu.com
