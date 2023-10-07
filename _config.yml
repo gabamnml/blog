@@ -1,10 +1,10 @@
 
 # SEO settings
 title: "Gabriel Aramburu"
-title2: " In Code I Trust" # default: ""
+title2: " " 
 description: "Software Architect"
 keywords: "Code, Security, Apps, API, technical, programming, "
-url: http://garamburu.com # site url
+url: http://garamburu.com 
 #baseurl: "/blog" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
