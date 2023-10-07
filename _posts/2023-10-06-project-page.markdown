@@ -16,7 +16,7 @@ blog: true
 
 Estoy emocionado de compartir con ustedes una actualización que he estado trabajando durante algún tiempo. Como muchos de ustedes saben, siempre he estado involucrado en varios proyectos a lo largo de los años. Sin embargo, siempre ha sido un desafío mostrarlos de una manera que sea fácil de navegar y comprender.
 
-Por eso, decidí crear un sitio web dedicado exclusivamente a mis proyectos: [project.garamburu.com](https://project.garamburu.com).
+Por eso, decidí crear un sitio web dedicado exclusivamente a mis proyectos: [projects.garamburu.com](https://projects.garamburu.com).
 
 ## Tecnologías Utilizadas
 
@@ -44,6 +44,6 @@ Además, tener un sitio web dedicado me da la flexibilidad de mostrar mis proyec
 
 ## ¡Echa un vistazo!
 
-Te invito a visitar [project.garamburu.com](https://project.garamburu.com) y echar un vistazo. Me encantaría escuchar tus comentarios y sugerencias sobre cómo puedo mejorarlo.
+Te invito a visitar [projects.garamburu.com](https://projects.garamburu.com) y echar un vistazo. Me encantaría escuchar tus comentarios y sugerencias sobre cómo puedo mejorarlo.
 
 ¡Gracias por tu apoyo continuo y espero que disfrutes navegando por mis proyectos tanto como yo disfruté trabajando en ellos!
